@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "htmlkickstart-rails/version"
 
 Gem::Specification.new do |s|
-  s.name        = "htmlkickstart-rails"
+  s.name        = "htmlkickstart"
   s.version     = Htmlkickstart::Rails::VERSION
   s.authors     = ["Vlad Shvedov"]
   s.email       = ["vshvedov@heliostech.hk"]

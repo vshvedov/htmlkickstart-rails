@@ -17,7 +17,7 @@ HTML KickStart supports major of moder browswers.
 Add to your `Gemfile`:
 
 ```ruby
-gem 'htmlkickstart-rails'
+gem 'htmlkickstart'
 ```
 
 then run `bundle` in the console, and then run:
